@@ -1,0 +1,31 @@
+{
+  "name": "sql-formatter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export",
+    "test": "jest"
+  },
+  "dependencies": {
+    "codemirror": "^5.49.0",
+    "react": "16.10.1",
+    "react-codemirror2": "^6.0.0",
+    "react-dom": "16.10.1",
+    "sql-formatter": "^2.3.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@types/jest": "^24.0.18",
+    "@types/node": "^12.7.12",
+    "@zeit/next-css": "^1.0.1",
+    "babel-jest": "^24.9.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "cross-env": "^6.0.3",
+    "jest": "^24.9.0",
+    "next": "^9.1.1"
+  }
+}
