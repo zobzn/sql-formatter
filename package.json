@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "codemirror": "^5.49.0",
+    "codemirror": "^5.58.2",
     "react": "16.10.1",
     "react-codemirror2": "^6.0.0",
     "react-dom": "16.10.1",
