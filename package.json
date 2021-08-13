@@ -26,6 +26,6 @@
     "babel-preset-react": "^6.24.1",
     "cross-env": "^6.0.3",
     "jest": "^24.9.0",
-    "next": "^9.1.1"
+    "next": "^11.1.0"
   }
 }
